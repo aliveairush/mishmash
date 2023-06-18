@@ -20,6 +20,7 @@
     "module": "ES2022",
     "useDefineForClassFields": false,
     "lib": ["ES2022", "dom"],
+    // For auto import
     "typeRoots": [
       "node_modules/@types",
       "node_modules/@angular",
